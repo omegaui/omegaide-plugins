@@ -5,8 +5,3 @@ If you want to report then create an issue on github and attach this file.
 Please note that only the error reports of this session is recorded,
 the previous error reports are deleted when you start the IDE.
 ----
-Jar Packager<<>>jarpackager_v1.2-packager.JarPackagerPlugin-OMEGAIDE.jar<<>>342.098 kB
-This is an advanced java packager for Omega IDE v1.2 or above.
-This plugin will let you choose which package to include/exclude,
-unlike the default jar packager which packages the whole application.
-----
