@@ -1,7 +1,0 @@
-Bug Tracker<<>>bugmachanism_v1.1-bug.BugWriter-OMEGAIDE.jar<<>>2.259 kB
-This is a simple plugin to make a record of bugs in a file named ".bug".
-Any error occurered during runtime will be recorded in that file.
-If you want to report then create an issue on github and attach this file.
-Please note that only the error reports of this session is recorded,
-the previous error reports are deleted when you start the IDE.
-----
