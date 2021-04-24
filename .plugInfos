@@ -1,0 +1,34 @@
+---------> Plugin Info Starts
+quickfileopener_v1.8-omega.utils.QuickFileOpener-OMEGAIDE.jar
+Quick File Opener
+v1.8
+Omega UI
+Copyright (c) 2021 Omega UI. All Right Reserved.
+-1
+Just a simple path field based file opener
+to open external project files without navigation!
+---------> Plugin Info Ends
+---------> Plugin Info Starts
+gitintegration_v1.8-omega.integration.GitPlugin-OMEGAIDE.jar
+Minimal Git Integration
+v1.8
+Omega UI
+Copyright (C) 2021 Omega UI. All Right Reserved.
+-1
+This Release supports the following features : 
+Initializing a project as git repository.
+Committing changes to the repository locally.
+Pulling the Remote Repository.
+
+Made using JGit java library.
+More Features coming soon.
+---------> Plugin Info Ends
+---------> Plugin Info Starts
+jarpackager_v1.8-omega.packager.JarPackagerPlugin-OMEGAIDE.jar
+Jar Builder
+v1.8
+Omega UI
+Copyright (C) 2021 Omega UI. All Right Reserved
+-1
+Simple Interactive Jar Builder
+---------> Plugin Info Ends
