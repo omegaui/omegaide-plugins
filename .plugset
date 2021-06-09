@@ -1,16 +1,1 @@
-Minimal Git Integration<<>>gitintegration_v1.8-omega.integration.GitPlugin-OMEGAIDE.jar<<>>3151.447 kB
-This Release supports the following features : 
-Initializing a project as git repository.
-Committing changes to the repository locally.
-Pulling the Remote Repository.
 
-Made using JGit java library.
-More Features coming soon.
-----
-Jar Builder<<>>jarpackager_v1.8-omega.packager.JarPackagerPlugin-OMEGAIDE.jar<<>>8.06 kB
-Simple Interactive Jar Builder
-----
-Quick File Opener<<>>quickfileopener_v1.8-omega.utils.QuickFileOpener-OMEGAIDE.jar<<>>5.30 kB
-Just a simple path field based file opener
-to open external project files without navigation!
-----
