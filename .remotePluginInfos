@@ -21,3 +21,13 @@
 -https://raw.githubusercontent.com/omegaui/jar-packager/main/out/omega.jarpackager.JarPackagerPlugin.jar
 -https://raw.githubusercontent.com/omegaui/omegaide/main/res/fluent-icons/icons8-rocket-build-64.png
 -https://raw.githubusercontent.com/omegaui/jar-packager/main/images/screenshot0.png
+>Terminal Window
+-v2.0
+-The Integrated Terminal in a Window.
+-Omega UI
+-GNU GPL v3
+-0.20 MB
+-UTILITY
+-omega.terminaldialog.TerminalDialogPlugin.jar
+-https://raw.githubusercontent.com/omegaui/terminal-dialog/main/out/omega.terminaldialog.TerminalDialogPlugin.jar
+-https://raw.githubusercontent.com/omegaui/omegaide/main/res/fluent-icons/icons8-console-50.png
