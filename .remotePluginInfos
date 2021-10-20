@@ -10,3 +10,14 @@
 -https://raw.githubusercontent.com/omegaui/omegaide/main/res/fluent-icons/icons8-backend-development-50.png
 -https://raw.githubusercontent.com/omegaui/prime-plugin-sys/main/screenshot0.png
 -https://raw.githubusercontent.com/omegaui/prime-plugin-sys/main/screenshot1.png
+>Jar Packager
+-v2.1
+-The Default Jar Packager Plugin.
+-Omega UI
+-GNU GPL v3
+-0.76 MB
+-UTILITY
+-omega.jarpackager.JarPackagerPlugin.jar
+-https://raw.githubusercontent.com/omegaui/jar-packager/main/out/omega.plugin.SamplePlugin.jar
+-https://raw.githubusercontent.com/omegaui/omegaide/main/res/fluent-icons/icons8-rocket-build-64.png
+-https://raw.githubusercontent.com/omegaui/jar-packager/main/images/screenshot0.png
