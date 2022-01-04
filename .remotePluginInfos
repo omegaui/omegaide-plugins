@@ -31,3 +31,13 @@
 -omega.terminaldialog.TerminalDialogPlugin.jar
 -https://raw.githubusercontent.com/omegaui/terminal-dialog/main/out/omega.terminaldialog.TerminalDialogPlugin.jar
 -https://raw.githubusercontent.com/omegaui/omegaide/main/res/fluent-icons/icons8-console-50.png
+>Auto-Indent(C, C++ & C#)
+-v2.2
+-Can Auto-Indent *.c, *.cpp & *.cs files.
+-Omega UI
+-GNU GPL v3
+-0.045 MB
+-EDITING
+-omega.instant.support.misc.AllCIndentationPlugin.jar
+-https://raw.githubusercontent.com/omegaui/all-c-indentation-framework/out/omega.instant.support.misc.AllCIndentationPlugin.jar
+-https://raw.githubusercontent.com/omegaui/omegaide/main/res/fluent-icons/icons8-python-48.png
