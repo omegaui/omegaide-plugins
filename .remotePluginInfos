@@ -41,3 +41,13 @@
 -omega.instant.support.misc.AllCIndentationPlugin.jar
 -https://raw.githubusercontent.com/omegaui/all-c-indentation-framework/main/out/omega.instant.support.misc.AllCIndentationPlugin.jar
 -https://raw.githubusercontent.com/omegaui/omegaide/main/res/fluent-icons/icons8-c-programming-48.png
+>Python Basic Assist
+-v2.2
+-Gives Python Keywords as suggestions.
+-Omega UI
+-GNU GPL v3
+-0.01 MB
+-EDITING
+-omega.instant.support.python.assist.PythonAssistPlugin.jar
+-https://raw.githubusercontent.com/omegaui/python-assist-plugin/raw/main/out/omega.instant.support.python.assist.PythonAssistPlugin.jar
+-https://raw.githubusercontent.com/omegaui/omegaide/main/res/fluent-icons/icons8-python-48.png
