@@ -1,15 +1,3 @@
->Sample Plugin
--v1.0
--Its Just a Sample Plugin.
--Omega UI
--GNU GPL v3
--0.13 MB
--
--omega.plugin.SamplePlugin.jar
--https://raw.githubusercontent.com/omegaui/prime-plugin-sys/main/bin/.omega-ide/plugins/omega.plugin.SamplePlugin.jar
--https://raw.githubusercontent.com/omegaui/omegaide/main/res/fluent-icons/icons8-backend-development-50.png
--https://raw.githubusercontent.com/omegaui/prime-plugin-sys/main/screenshot0.png
--https://raw.githubusercontent.com/omegaui/prime-plugin-sys/main/screenshot1.png
 >Jar Packager
 -v2.2
 -The Default Jar Packager Plugin.
