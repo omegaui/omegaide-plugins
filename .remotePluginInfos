@@ -49,3 +49,13 @@
 -omega.vibencode.MusicPlayerPlugin.jar
 -https://raw.githubusercontent.com/omegaui/vibencode/main/out/omega.vibencode.MusicPlayerPlugin.jar
 -https://raw.githubusercontent.com/omegaui/vibencode/main/res/fluent-icons/icons8-play-100.png
+>Kotlin
+-v2.2
+-Kotlin plugin for Omega IDE, currenlty supports Basic Code Highlights.
+-Omega UI
+-GNU GPL v3
+-0.061 MB
+-LANGUAGE-SUPPORT
+-omega.instant.support.kotlin.KotlinPlugin.jar
+-https://raw.githubusercontent.com/omegaui/kotlin-plugin/main/out/omega.instant.support.kotlin.KotlinPlugin.jar
+-https://raw.githubusercontent.com/omegaui/omegaide/main/res/fluent-icons/icons8-kotlin-48.png
