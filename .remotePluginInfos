@@ -59,3 +59,13 @@
 -omega.instant.support.kotlin.KotlinPlugin.jar
 -https://raw.githubusercontent.com/omegaui/kotlin-plugin/main/out/omega.instant.support.kotlin.KotlinPlugin.jar
 -https://raw.githubusercontent.com/omegaui/omegaide/main/res/fluent-icons/icons8-kotlin-48.png
+>Sticky Terminal
+-v2.2
+-Sticky Terminals
+-Omega UI
+-GNU GPL v3
+-0.010 MB
+-UTILITY
+-omega.ui.window.StickyTerminalPlugin.jar
+-https://raw.githubusercontent.com/omegaui/sticky-terminal-plugin/main/out/omega.ui.window.StickyTerminalPlugin.jar
+-https://raw.githubusercontent.com/omegaui/omegaide/main/res/fluent-icons/icons8-console-50.png
